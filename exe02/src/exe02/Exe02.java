@@ -126,9 +126,9 @@ public class Exe02 {
         Departamento departamentoTI = new Departamento("TI");
         Departamento departamentoRH = new Departamento("Recursos Humanos");
 
-        Funcionario funcionario1 = new Funcionario(1, "Alice", 5000);
-        Funcionario funcionario2 = new Funcionario(2, "Bob", 6000);
-        Funcionario funcionario3 = new Funcionario(3, "Charlie", 5500);
+        Funcionario funcionario1 = new Funcionario(1, "Lucas1", 5000);
+        Funcionario funcionario2 = new Funcionario(2, "Lucas2", 6000);
+        Funcionario funcionario3 = new Funcionario(3, "Lucas3", 5500);
 
         departamentoTI.adicionarFuncionario(funcionario1);
         departamentoTI.adicionarFuncionario(funcionario2);
